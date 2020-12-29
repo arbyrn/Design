@@ -1,3 +1,5 @@
+Things to keep in mind before you start Vanilla JS project.
+
 "Stop Sabotaging Your Code…Before You Even Code" by Meghan Hebel
 https://codeburst.io/stop-sabotaging-your-code-4ed67424a17a
 
